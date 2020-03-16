@@ -1,2 +1,2 @@
 # MechatronicsProject
-Files containing the information for mechatronic project work
+Repository containing the information and files for mechatronic project work
